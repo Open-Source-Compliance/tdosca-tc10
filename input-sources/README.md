@@ -1,4 +1,4 @@
-# TDOSCA-TC12-SIMPLHW / release <#1.0.0#>
+# TDOSCA-TC10-SIMPLHW / release <#1.0.0#>
 
 Copyright (C) 2022 Karsten Reincke / Deutsche Telekom AG
 
@@ -13,7 +13,7 @@ Copyright (C) 2022 Karsten Reincke / Deutsche Telekom AG
 ## 1. Purpose <a id="pur"></a>
 One task of the project [Test-Driven Open Source Compliance Automation](https://github.com/Open-Source-Compliance/tdosca) is to define test cases consisting of program sources and reference compliance artifacts which - added to the program package - would ensure to distribute the open source program compliantly.
 
-The project TDOSCA-TC12-SIMPLHW is the software input of the test case no. 12. It is part of the repository *tdosca-tc10-simplhw* and is a ***very simple hello world*** program.
+The project TDOSCA-TC10-SIMPLHW is the software input of the test case no. 12. It is part of the repository *tdosca-tc10-simplhw* and is a ***very simple hello world*** program.
 
 ## 2. Prerequisites <a id="prq"></a>
 * operating system

@@ -1,4 +1,4 @@
-# Compliance Traps of TDOSCA-TC12-SIMPLHW
+# Compliance Traps of TDOSCA-TC10-SIMPLHW
 
 The test case input (= open source software)
 
