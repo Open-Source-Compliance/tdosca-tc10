@@ -1,0 +1,4 @@
+#!/bin/bash
+
+USELICSNIPPETS=""
+USEWRITTENOFFER=no

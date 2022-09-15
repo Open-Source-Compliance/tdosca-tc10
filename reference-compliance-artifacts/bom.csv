@@ -1,5 +1,0 @@
-tdosca-tc05,1.0.0,MIT,DEFAULT,https://github.com/Open-Source-Compliance/tdosca-tc05-simplhw/tree/master/input-sources
-tdosca-tc05,1.0.0,BSD-2-CLAUSE,EnvService.java,https://github.com/Open-Source-Compliance/tdosca-tc05-simplhw/tree/master/input-sources/src/main/java/de/fodina/tdosca/common/EnvService.java
-tdosca-tc05,1.0.0,BSD-2-CLAUSE,EnvServiceTest.java,https://github.com/Open-Source-Compliance/tdosca-tc05-simplhw/tree/master/input-sources/src/test/java/de/fodina/tdosca/comm/EnvServiceTest.java
-tdosca-tc05,1.0.0,MIT,GreetingService.java,https://github.com/Open-Source-Compliance/tdosca-tc05-simplhw/tree/master/input-sources/src/main/java/de/fodina/tdosca/tc05/GreetingService.java
-tdosca-tc05,1.0.0,MIT,GreetingServiceTest.java,https://github.com/Open-Source-Compliance/tdosca-tc05-simplhw/tree/master/input-sources/src/test/java/de/fodina/tdosca/tc05/GreetingServiceTest.java
